@@ -13,6 +13,7 @@ body {
     margin-left: 65px;
     background-color: #23252C;
     width: 550px;
+    height: 868px;
 }
 #core {
     margin-left: 116px;
@@ -91,4 +92,20 @@ main {
     font-weight: 400;
     margin-bottom: 24px;
     line-height: 150%;
+}
+
+/****** FOOTER ******/
+
+footer {
+    height: 64px;
+    background: #161619;
+    border-radius: 0px 0px 10px 10px;
+}
+
+ul {
+    list-style: none;
+    padding: 0 73px 0 73px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
