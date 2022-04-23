@@ -6,10 +6,8 @@ import React from "react"
 
 export default function Card() {
     return (
-        <div>
-            <div>
-                <Info />
-           </div>
+        <div id="core">
+            <Info />
             <main>
                 <About />
                 <Interests />
